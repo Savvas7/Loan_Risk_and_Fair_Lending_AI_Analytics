@@ -1,0 +1,21 @@
+Applicant_Age,Applicant_Income,Loan_Amount,Credit_Score,Loan_Term,Interest_Rate,Loan_Scoring_Model_Output,Debt_to_Income_Ratio,Non_Performing_Loan_Flag,Delinquency_Rate,Portfolio_Risk_Score,High_Risk_Borrower,Macroeconomic_Risk_Index,Approval_Rate_by_Demographics,Interest_Rate_Disparity,Disparate_Impact_Ratio,Fair_Lending_Bias_Score,False_Positive_Rate,False_Negative_Rate,Model_Drift_Approval_Patterns,Gender_Male,Race_Black,Race_Hispanic,Race_Other,Race_White,Loan_Approval_Denied,Loan_Denial_Reasons_Insufficient Collateral,Loan_Denial_Reasons_Low Credit Score,Loan_Denial_Reasons_Other,Loan_Denial_Reasons_Unstable Income,Predicted_Compliance_Violation,Compliance_Violation_Probability
+36,123557,197506,811,60,6.88,0.07,17.38,0,0.46,24.53,1,76.77,94.04,1.87,1.01,0.04,0.12,0.15,3.01,True,False,False,False,False,False,False,False,False,False,0,0
+27,139225,224686,796,48,9.42,0.41,25.17,1,0.47,39.12,0,43.86,60.11,4.77,0.53,0.72,0.12,0.19,4.6,False,False,True,False,False,False,True,False,False,False,0,0
+64,167848,363745,403,24,7.83,0.32,16.62,0,0.88,89.45,0,49.33,55.66,4.12,0.96,0.02,0.07,0.03,9.63,True,True,False,False,False,True,True,False,False,False,0,0
+45,135878,147483,776,48,6.94,0.0,19.44,0,0.65,89.74,1,48.44,75.12,2.75,1.11,0.07,0.15,0.09,7.88,False,False,False,False,True,False,False,False,True,False,0,0
+24,179213,242714,457,36,13.09,0.14,14.91,0,0.9,99.63,0,61.23,88.89,1.97,0.99,0.61,0.05,0.1,7.66,True,False,False,True,False,False,True,False,False,False,0,0
+27,80015,117547,348,12,7.37,0.55,12.76,0,0.64,59.73,0,29.88,66.05,0.54,1.14,0.46,0.13,0.09,0.33,False,False,False,False,True,False,False,False,False,True,0,0
+22,107373,111081,769,60,9.35,0.48,19.09,0,0.6,98.92,0,88.25,76.94,2.82,1.35,0.32,0.19,0.12,9.79,False,False,False,False,False,True,False,False,False,False,0,0
+43,157659,288076,335,24,5.46,0.36,32.29,0,0.43,73.39,0,84.62,93.35,2.12,0.6,0.77,0.07,0.01,2.42,False,False,True,False,False,False,False,False,True,False,0,0
+31,164633,199806,637,48,10.7,0.7,31.59,1,0.54,4.51,0,74.92,54.38,4.63,0.86,0.24,0.17,0.15,8.26,True,False,False,True,False,True,False,False,True,False,0,0
+59,163767,274536,719,48,10.32,0.23,18.18,0,0.44,52.25,0,46.46,60.61,3.02,1.12,0.01,0.12,0.14,3.14,False,False,False,True,False,False,True,False,False,False,0,0
+44,82256,173229,494,36,14.21,0.72,33.96,0,0.34,98.23,0,77.58,67.96,3.25,1.02,0.84,0.13,0.08,6.21,False,False,False,False,True,True,False,False,True,False,0,0
+47,128806,360528,326,24,13.34,0.71,39.04,0,0.31,4.69,1,82.14,80.12,0.84,1.31,0.96,0.17,0.1,8.56,False,False,False,False,True,False,False,False,True,False,0,0
+56,85016,152443,475,60,13.65,0.45,41.22,0,0.4,88.29,0,22.06,92.29,4.3,0.56,0.3,0.18,0.07,8.29,False,False,False,False,False,False,False,False,False,True,0,0
+36,120982,56663,583,24,11.0,0.51,46.75,0,0.79,95.73,0,95.15,76.45,2.5,0.58,0.69,0.12,0.05,2.79,False,False,True,False,False,False,False,False,False,False,0,0
+65,95318,449623,489,48,7.93,0.17,28.73,0,0.01,69.9,0,60.62,55.09,3.97,0.93,0.75,0.12,0.19,8.52,True,False,False,False,True,True,False,False,True,False,0,0
+28,194231,223164,526,48,5.92,0.09,14.12,0,0.95,29.7,0,72.19,78.46,3.76,1.33,0.26,0.04,0.03,3.58,True,False,False,False,False,False,False,False,False,False,0,0
+68,166602,138121,837,48,5.42,0.62,18.51,0,0.54,57.13,0,84.05,58.48,1.48,0.74,0.38,0.08,0.13,1.13,True,True,False,False,False,False,True,False,False,False,0,0
+35,149101,167688,707,24,9.77,0.54,30.61,0,0.66,66.21,0,17.42,82.89,3.97,0.64,0.21,0.14,0.19,7.04,True,False,False,False,False,False,False,False,False,False,0,0
+56,94505,188734,460,24,11.02,0.9,26.36,0,0.84,39.16,0,10.28,76.68,4.51,1.44,0.8,0.05,0.19,2.4,True,True,False,False,False,False,False,False,False,True,0,0
+62,167982,440323,525,24,9.52,0.77,33.72,0,0.81,38.41,1,4.12,56.56,3.21,1.29,0.79,0.15,0.06,2.27,False,False,True,False,False,False,False,False,False,False,0,0
